@@ -1,12 +1,11 @@
 {
-  "name": "react-native-picker-select",
-  "version": "9.3.1",
+  "name": "@react-native-oh-tpl/react-native-picker-select",
+  "version": "9.3.1-0.0.1",
   "description": "A Picker component for React Native which emulates the native <select> interfaces for each platform",
   "license": "MIT",
-  "author": "Michael Lefkowitz <lefkowitz.michael@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lawnstarter/react-native-picker-select.git"
+    "url": "https://github.com/react-native-oh-library/react-native-picker-select.git"
   },
   "main": "src/index.js",
   "keywords": [
@@ -17,15 +16,20 @@
     "react-native",
     "react native",
     "expo",
-    "items"
+    "items",
+    "harmony"
   ],
+  "harmony": {
+    "alias": "react-native-picker-select"
+  },
   "files": [
     "index.d.ts",
     "/src"
   ],
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "lodash.isobject": "^3.0.2"
+    "lodash.isobject": "^3.0.2",
+    "react-native-picker-select": "9.3.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
