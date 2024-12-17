@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "react-native-picker-select",
+        "License": "MIT License",
+        "License File": "https://github.com/lawnstarter/react-native-picker-select/blob/master/LICENSE",
+        "Version Number": "9.3.1",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/lawnstarter/react-native-picker-select",
+        "Description": "A Picker component for React Native which emulates the native <select> interfaces for each platform",
+        "Dependencies": ["lodash.isequal", "lodash.isobject"]
+    }
+]
