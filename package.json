@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-oh-tpl/react-native-picker-select",
+  "name": "@react-native-ohos/react-native-picker-select",
   "version": "9.3.2",
   "description": "A Picker component for React Native which emulates the native <select> interfaces for each platform",
   "license": "MIT",
